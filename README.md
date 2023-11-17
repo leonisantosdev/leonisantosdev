@@ -26,8 +26,7 @@
 <details>
   <summary><strong>GitHub Stats<strong/></summary>
 
-  <img align="left" alt="GitHub top languages" src="[#](https://github-readme-stats.vercel.app/api/top-langs/?username=leonisantosdev&hide=html&langs_count=3&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff)https://github-readme-stats.vercel.app/api/top-langs/?username=leonisantosdev&hide=html&langs_count=3&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
-
-  <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=leonisantosdev&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?leonisantosdev=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?leonisantosdev=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </details>
