@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  🔧 <strong>Tools:</strong> <i>VSCode, Git and GitHub.</i>
+  🔧 <strong>Tools:</strong> <i>VSCode, Git and GitHub</i>
 </p>
 
 
