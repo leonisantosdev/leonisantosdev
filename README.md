@@ -1,4 +1,3 @@
-
 <img src="computer-illustration.png" width="350px" align="right" alt="notebook joao">
 
 
