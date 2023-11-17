@@ -10,7 +10,7 @@
 
 > Every day studying and learning! 📖
 
-- 🎓 Graduating on Analysis and Systems Development at [@**UFRN**](https://www.ufrn.br/)  
+- 🎓 Graduating on Analysis and Systems Development at [@**UNIFTEC**]([https://www.ufrn.br/](https://www.ftec.com.br/))  
 - 🇧🇷 Living in São José/SC, Brazil
 
 <p align="left">
