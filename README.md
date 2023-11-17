@@ -28,6 +28,6 @@
 
   <img align="left" alt="GitHub top languages" src="[#](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoniSantosFernandes&hide=html&langs_count=3&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff)https://github-readme-stats.vercel.app/api/top-langs/?username=LeoniSantosFernandes&hide=html&langs_count=3&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
 
-  <img align="right" alt="GitHub stats" src="#" />
+  <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeoniSantosFernandes&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
 
 </details>
