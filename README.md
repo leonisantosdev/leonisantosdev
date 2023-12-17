@@ -13,7 +13,8 @@
 - 🇧🇷 Living in São José/SC, Brazil
 
 <p align="left">
-  🤹🏻 <strong>Skills</strong> : <i>HTML, CSS, SASS, JavaScript, TypeScript, React, Nodejs, Tailwind, Bootstrap, MySQL, C && C++ </i>
+  🤹🏻 <strong>Skills</strong> : <i>HTML, CSS, SASS, JavaScript, TypeScript, React, Nodejs
+      Tailwind, Bootstrap, MySQL, C && C++ </i>
 </p>
 
 <p align="left">
