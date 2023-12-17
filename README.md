@@ -1,4 +1,4 @@
-<img src="computer-illustration.png" width="350px" align="right" alt="notebook joao">
+<img src="computer-illustration.png" width="350px" align="right" alt="notebook leoni">
 
 
 <h2 align="left"> 
@@ -13,11 +13,11 @@
 - 🇧🇷 Living in São José/SC, Brazil
 
 <p align="left">
-  🤹🏻 <strong>Skills</strong> : <i>HTML, CSS & JavaScript, TypeScript, React, Nodejs, Tailwind, Bootstrap, MySQL, C && C++ </i>
+  🤹🏻 <strong>Skills</strong> : <i>HTML, CSS, SASS, JavaScript, TypeScript, React, Nodejs, Tailwind, Bootstrap, MySQL, C && C++ </i>
 </p>
 
 <p align="left">
-  🔧 <strong>Tools:</strong> <i>VSCode, Git and GitHub</i>
+  🔧 <strong>Tools:</strong> <i>VSCode, Git, GitHub && Figma</i>
 </p>
 
 
