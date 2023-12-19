@@ -8,7 +8,7 @@
 
 > Estudando e aprendendo todos os dias! 📖
 
-- 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas na [@**UNIFTEC**]([https://www.ufrn.br/](https://www.ftec.com.br/))  
+- 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas na [@**UNIFTEC**]([https://www.ufrn.br/](https://www.ftec.com.br/))  
 - 🇧🇷  Morando em São José/SC, Brasil
   
 <p align="left">
